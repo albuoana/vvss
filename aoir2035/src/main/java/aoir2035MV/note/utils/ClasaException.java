@@ -1,10 +1,10 @@
-package aoir2035MV.note.exception;
+package aoir2035MV.note.utils;
 
 public class ClasaException extends Exception {
 	
 	private static final long serialVersionUID = 1L;
 
-	public ClasaException(String mesaj) {
+	public ClasaException (String mesaj) {
 		super(mesaj);
 	}
 

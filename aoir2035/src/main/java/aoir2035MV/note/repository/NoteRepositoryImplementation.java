@@ -10,13 +10,13 @@ import java.util.LinkedList;
 import java.util.List;
 
 import aoir2035MV.note.model.Nota;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.utils.ClasaException;
 import aoir2035MV.note.utils.Constants;
 
-public class NoteRepositoryMock implements NoteRepository{
+public class NoteRepositoryImplementation implements NoteRepository{
 	private List<Nota> note;
 	
-	public NoteRepositoryMock() {
+	public NoteRepositoryImplementation() {
 		note = new LinkedList<Nota>();
 	}
 

@@ -3,7 +3,7 @@ package aoir2035MV.note.repository;
 import java.util.List;
 
 import aoir2035MV.note.model.Nota;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.utils.ClasaException;
 
 public interface NoteRepository {
 	

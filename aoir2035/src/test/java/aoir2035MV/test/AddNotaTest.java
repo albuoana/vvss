@@ -7,7 +7,7 @@ import org.junit.rules.ExpectedException;
 
 import aoir2035MV.note.controller.NoteController;
 import aoir2035MV.note.model.Nota;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.utils.ClasaException;
 import aoir2035MV.note.utils.Constants;
 
 import static junit.framework.TestCase.assertEquals;

@@ -9,7 +9,7 @@ import aoir2035MV.note.controller.NoteController;
 import aoir2035MV.note.model.Corigent;
 import aoir2035MV.note.model.Elev;
 import aoir2035MV.note.model.Nota;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.utils.ClasaException;
 
 import static org.junit.Assert.assertEquals;
 

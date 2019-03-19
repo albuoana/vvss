@@ -10,7 +10,7 @@ import java.util.List;
 import aoir2035MV.note.controller.NoteController;
 import aoir2035MV.note.model.Corigent;
 import aoir2035MV.note.model.Medie;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.utils.ClasaException;
 
 //functionalitati
 //F01.	 adaugarea unei note la o anumita materie (nr. matricol, materie, nota acordata);

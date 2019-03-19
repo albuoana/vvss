@@ -11,11 +11,11 @@ import java.util.List;
 
 import aoir2035MV.note.model.Elev;
 
-public class EleviRepositoryMock implements EleviRepository{
+public class EleviRepositoryMockImplementation implements EleviRepository{
 
 	private List<Elev> elevi;
 	
-	public EleviRepositoryMock() {
+	public EleviRepositoryMockImplementation() {
 		elevi = new LinkedList<Elev>();
 	}
 	

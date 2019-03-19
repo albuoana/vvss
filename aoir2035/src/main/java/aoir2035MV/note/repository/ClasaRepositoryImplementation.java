@@ -9,14 +9,14 @@ import aoir2035MV.note.model.Corigent;
 import aoir2035MV.note.model.Elev;
 import aoir2035MV.note.model.Medie;
 import aoir2035MV.note.model.Nota;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.utils.ClasaException;
 import aoir2035MV.note.utils.Constants;
 
-public class ClasaRepositoryMock implements ClasaRepository{
+public class ClasaRepositoryImplementation implements ClasaRepository{
 
 	private HashMap<Elev, HashMap<String, List<Double>>> clasa;
 	
-	public ClasaRepositoryMock() {
+	public ClasaRepositoryImplementation() {
 		clasa = new HashMap<Elev, HashMap<String, List<Double>>>();
 	}
 

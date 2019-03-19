@@ -8,12 +8,12 @@ import aoir2035MV.note.model.Elev;
 import aoir2035MV.note.model.Medie;
 import aoir2035MV.note.model.Nota;
 import aoir2035MV.note.repository.ClasaRepository;
-import aoir2035MV.note.repository.ClasaRepositoryMock;
+import aoir2035MV.note.repository.ClasaRepositoryImplementation;
 import aoir2035MV.note.repository.EleviRepository;
-import aoir2035MV.note.repository.EleviRepositoryMock;
+import aoir2035MV.note.repository.EleviRepositoryMockImplementation;
 import aoir2035MV.note.repository.NoteRepository;
-import aoir2035MV.note.repository.NoteRepositoryMock;
-import aoir2035MV.note.exception.ClasaException;
+import aoir2035MV.note.repository.NoteRepositoryImplementation;
+import aoir2035MV.note.utils.ClasaException;
 
 
 public class NoteController {
@@ -22,9 +22,9 @@ public class NoteController {
 	private EleviRepository elevi;
 
 	public NoteController() {
-		note = new NoteRepositoryMock();
-		clasa = new ClasaRepositoryMock();
-		elevi = new EleviRepositoryMock();
+		note = new NoteRepositoryImplementation();
+		clasa = new ClasaRepositoryImplementation();
+		elevi = new EleviRepositoryMockImplementation();
 	}
 	
 	public void addNota(Nota nota) throws ClasaException {
