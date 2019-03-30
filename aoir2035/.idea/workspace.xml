@@ -22,11 +22,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NoteController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/controller/NoteController.java">
+      <file leaf-file-name="AddNotaTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/aoir2035MV/test/AddNotaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+            <state relative-caret-position="609">
+              <caret line="191" column="5" lean-forward="true" selection-start-line="191" selection-start-column="5" selection-end-line="191" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/main/StartApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,337 +49,65 @@
       <file leaf-file-name="ClasaRepositoryImplementation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepositoryImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1479">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="-1564">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClasaException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/exception/ClasaException.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="JavaScript-modules-diagram/G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/controller;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/exception;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/main;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/model;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/repository;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/utils;" pinned="false" current-in-tab="false">
-        <entry file="uml://JavaScript-modules-diagram/G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/controller;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/exception;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/main;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/model;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/repository;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/utils;">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JavaScript-modules-diagram</ID>
-              <OriginalElement>$PROJECT_DIR$/src/main/java/aoir2035MV/note/controller;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/exception;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/main;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/model;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/repository;G:/AN3/vvss/aoir2035/src/main/java/aoir2035MV/note/utils;</OriginalElement>
-              <nodes />
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>All</Category>
-              </Categories>
-              <VISIBILITY>Details</VISIBILITY>
+      <file leaf-file-name="EleviRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/aoir2035MV.note.repository.NoteRepositoryImplementation" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/aoir2035MV.note.repository.NoteRepositoryImplementation">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>aoir2035MV.note.repository.NoteRepositoryImplementation</OriginalElement>
-              <nodes>
-                <node x="187.47374794745463" y="200.0">aoir2035MV.note.model.Elev</node>
-                <node x="1168.0904146141213" y="79.0">java.lang.Throwable</node>
-                <node x="376.66249999999997" y="787.0">aoir2035MV.note.repository.ClasaRepository</node>
-                <node x="10.5" y="974.0">aoir2035MV.note.repository.EleviRepositoryMockImplementation</node>
-                <node x="1421.4237479474548" y="776.0">aoir2035MV.note.exception.ClasaException</node>
-                <node x="629.3335591133002" y="535.0">aoir2035MV.note.model.Corigent</node>
-                <node x="407.3624589490967" y="974.0">aoir2035MV.note.repository.ClasaRepositoryImplementation</node>
-                <node x="1044.4237479474546" y="787.0">aoir2035MV.note.repository.NoteRepository</node>
-                <node x="1319.9237479474548" y="546.0">java.lang.Exception</node>
-                <node x="1028.4237479474546" y="524.0">aoir2035MV.note.model.Nota</node>
-                <node x="270.2124999999999" y="535.0">aoir2035MV.note.model.Medie</node>
-                <node x="504.66249999999997" y="1250.0">aoir2035MV.note.main.StartApp</node>
-                <node x="1259.5904146141213" y="0.0">java.io.Serializable</node>
-                <node x="170.06249999999994" y="787.0">aoir2035MV.note.repository.EleviRepository</node>
-                <node x="828.4237479474546" y="699.0">aoir2035MV.note.utils.Constants</node>
-                <node x="1104.5904146141213" y="974.0">aoir2035MV.note.repository.NoteRepositoryImplementation</node>
-                <node x="415.66249999999997" y="1105.0">aoir2035MV.note.controller.NoteController</node>
-                <node x="1218.4237479474548" y="776.0">aoir2035MV.note.utils.ClasaException</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.repository.NoteRepository">
-                  <point x="63.700000000000045" y="-47.5" />
-                  <point x="570.3625" y="1075.0" />
-                  <point x="1077.1737479474546" y="1075.0" />
-                  <point x="-32.75" y="14.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.NoteRepositoryImplementation" target="aoir2035MV.note.repository.NoteRepository">
-                  <point x="-53.75" y="-25.5" />
-                  <point x="1158.3404146141213" y="944.0" />
-                  <point x="1142.6737479474546" y="944.0" />
-                  <point x="32.75" y="14.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.model.Medie">
-                  <point x="-27.299999999999955" y="-47.5" />
-                  <point x="479.3625" y="1055.0" />
-                  <point x="321.5125" y="1055.0" />
-                  <point x="321.5125" y="669.0" />
-                  <point x="312.81249999999983" y="669.0" />
-                  <point x="-28.40000000000009" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.main.StartApp" target="aoir2035MV.note.controller.NoteController">
-                  <point x="-19.0" y="-14.5" />
-                  <point x="533.1624999999999" y="1220.0" />
-                  <point x="461.16249999999997" y="1220.0" />
-                  <point x="-45.5" y="47.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.EleviRepositoryMockImplementation" target="aoir2035MV.note.model.Elev">
-                  <point x="30.375" y="-25.5" />
-                  <point x="162.375" y="954.0" />
-                  <point x="123.6612889983578" y="954.0" />
-                  <point x="123.6612889983578" y="494.0" />
-                  <point x="236.12374794745472" y="494.0" />
-                  <point x="-20.84999999999991" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.EleviRepositoryMockImplementation" target="aoir2035MV.note.repository.EleviRepository">
-                  <point x="91.125" y="-25.5" />
-                  <point x="223.125" y="954.0" />
-                  <point x="202.31249999999994" y="954.0" />
-                  <point x="-32.25" y="14.5" />
-                </edge>
-                <edge source="java.lang.Throwable" target="java.io.Serializable">
-                  <point x="0.0" y="-157.5" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.repository.ClasaRepository">
-                  <point x="-9.099999999999909" y="-47.5" />
-                  <point x="497.56250000000006" y="1045.0" />
-                  <point x="396.8624589490967" y="1045.0" />
-                  <point x="396.8624589490967" y="954.0" />
-                  <point x="409.66249999999997" y="954.0" />
-                  <point x="-33.0" y="14.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.NoteRepositoryImplementation" target="aoir2035MV.note.utils.Constants">
-                  <point x="-89.58333333333337" y="-25.5" />
-                  <point x="1122.507081280788" y="944.0" />
-                  <point x="974.6737479474546" y="944.0" />
-                  <point x="48.75" y="102.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.model.Elev">
-                  <point x="-81.89999999999986" y="-47.5" />
-                  <point x="424.7625000000001" y="1085.0" />
-                  <point x="0.0" y="1085.0" />
-                  <point x="0.0" y="464.0" />
-                  <point x="194.42374794745467" y="464.0" />
-                  <point x="-62.549999999999955" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepository" target="aoir2035MV.note.model.Corigent">
-                  <point x="16.5" y="-14.5" />
-                  <point x="459.16249999999997" y="639.0" />
-                  <point x="644.7335591133002" y="639.0" />
-                  <point x="-61.60000000000002" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.NoteRepositoryImplementation" target="aoir2035MV.note.model.Nota">
-                  <point x="17.91666666666663" y="-25.5" />
-                  <point x="1230.007081280788" y="934.0" />
-                  <point x="1196.9237479474548" y="934.0" />
-                  <point x="1196.9237479474548" y="669.0" />
-                  <point x="1156.4951765188832" y="669.0" />
-                  <point x="46.57142857142861" y="47.5" />
-                </edge>
-                <edge source="java.lang.Exception" target="java.lang.Throwable">
-                  <point x="45.75" y="-25.5" />
-                  <point x="1457.1737479474548" y="504.0" />
-                  <point x="1435.757081280788" y="504.0" />
-                  <point x="121.66666666666669" y="157.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepository" target="aoir2035MV.note.model.Medie">
-                  <point x="-49.5" y="-14.5" />
-                  <point x="393.16249999999997" y="679.0" />
-                  <point x="398.0124999999999" y="679.0" />
-                  <point x="56.799999999999955" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.main.StartApp" target="aoir2035MV.note.model.Medie">
-                  <point x="-38.0" y="-14.5" />
-                  <point x="514.1624999999999" y="1230.0" />
-                  <point x="310.5125" y="1230.0" />
-                  <point x="310.5125" y="679.0" />
-                  <point x="284.41249999999997" y="679.0" />
-                  <point x="-56.799999999999955" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.exception.ClasaException" target="java.lang.Exception">
-                  <point x="45.75" y="-25.5" />
-                  <point x="1558.6737479474548" y="679.0" />
-                  <point x="1480.0487479474548" y="679.0" />
-                  <point x="68.625" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.repository.NoteRepositoryImplementation">
-                  <point x="81.90000000000009" y="-47.5" />
-                  <point x="588.5625" y="1085.0" />
-                  <point x="1212.0904146141213" y="1085.0" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.repository.ClasaRepository">
-                  <point x="-91.75" y="-25.5" />
-                  <point x="499.1124589490967" y="954.0" />
-                  <point x="475.66249999999997" y="954.0" />
-                  <point x="33.0" y="14.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.model.Medie">
-                  <point x="-128.44999999999993" y="-25.5" />
-                  <point x="462.4124589490968" y="934.0" />
-                  <point x="343.5125" y="934.0" />
-                  <point x="343.5125" y="679.0" />
-                  <point x="369.6125" y="679.0" />
-                  <point x="28.40000000000009" y="36.5" />
-                </edge>
-                <edge source="java.lang.Throwable" target="java.lang.Throwable">
-                  <point x="-24.33333333333337" y="157.5" />
-                  <point x="1289.757081280788" y="434.0" />
-                  <point x="1128.0904146141213" y="434.0" />
-                  <point x="1128.0904146141213" y="197.125" />
-                  <point x="-146.0" y="-39.375" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.model.Nota">
-                  <point x="91.75" y="-25.5" />
-                  <point x="682.6124589490967" y="934.0" />
-                  <point x="741.7874589490968" y="934.0" />
-                  <point x="741.7874589490968" y="669.0" />
-                  <point x="1063.3523193760261" y="669.0" />
-                  <point x="-46.571428571428555" y="47.5" />
-                </edge>
-                <edge source="aoir2035MV.note.utils.ClasaException" target="java.lang.Exception">
-                  <point x="-45.75" y="-25.5" />
-                  <point x="1264.1737479474548" y="679.0" />
-                  <point x="1342.7987479474548" y="679.0" />
-                  <point x="-68.625" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepository" target="aoir2035MV.note.model.Nota">
-                  <point x="49.5" y="-14.5" />
-                  <point x="492.16249999999997" y="659.0" />
-                  <point x="1040.0666050903117" y="659.0" />
-                  <point x="-69.85714285714289" y="47.5" />
-                </edge>
-                <edge source="aoir2035MV.note.main.StartApp" target="aoir2035MV.note.utils.ClasaException">
-                  <point x="38.0" y="-14.5" />
-                  <point x="590.1624999999999" y="1230.0" />
-                  <point x="1348.5443555008212" y="1230.0" />
-                  <point x="1348.5443555008212" y="954.0" />
-                  <point x="1370.9237479474548" y="954.0" />
-                  <point x="61.0" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.EleviRepository" target="aoir2035MV.note.model.Elev">
-                  <point x="0.0" y="-14.5" />
-                  <point x="234.56249999999994" y="504.0" />
-                  <point x="250.02374794745458" y="504.0" />
-                  <point x="-6.9500000000000455" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepository" target="aoir2035MV.note.model.Elev">
-                  <point x="-16.5" y="-14.5" />
-                  <point x="426.16249999999997" y="484.0" />
-                  <point x="291.7237479474546" y="484.0" />
-                  <point x="34.75" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.main.StartApp" target="aoir2035MV.note.model.Corigent">
-                  <point x="19.0" y="-14.5" />
-                  <point x="571.1624999999999" y="1220.0" />
-                  <point x="817.9237479474546" y="1220.0" />
-                  <point x="817.9237479474546" y="639.0" />
-                  <point x="767.9335591133001" y="639.0" />
-                  <point x="61.59999999999991" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.repository.ClasaRepositoryImplementation">
-                  <point x="9.099999999999909" y="-47.5" />
-                  <point x="515.7624999999998" y="1045.0" />
-                  <point x="590.8624589490967" y="1045.0" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.utils.ClasaException">
-                  <point x="165.1500000000001" y="-25.5" />
-                  <point x="756.0124589490968" y="954.0" />
-                  <point x="1248.9237479474548" y="954.0" />
-                  <point x="-61.0" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.model.Corigent">
-                  <point x="27.299999999999955" y="-47.5" />
-                  <point x="533.9624999999999" y="1055.0" />
-                  <point x="784.8624589490967" y="1055.0" />
-                  <point x="784.8624589490967" y="649.0" />
-                  <point x="737.1335591133002" y="649.0" />
-                  <point x="30.799999999999955" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.repository.EleviRepository">
-                  <point x="-45.5" y="-47.5" />
-                  <point x="461.16249999999997" y="1065.0" />
-                  <point x="266.81249999999994" y="1065.0" />
-                  <point x="32.25" y="14.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.utils.Constants">
-                  <point x="128.45000000000005" y="-25.5" />
-                  <point x="719.3124589490967" y="944.0" />
-                  <point x="877.1737479474546" y="944.0" />
-                  <point x="-48.75" y="102.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.NoteRepositoryImplementation" target="aoir2035MV.note.utils.ClasaException">
-                  <point x="89.58333333333337" y="-25.5" />
-                  <point x="1301.6737479474546" y="954.0" />
-                  <point x="1309.9237479474548" y="954.0" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.model.Nota">
-                  <point x="45.5" y="-47.5" />
-                  <point x="552.1624999999999" y="1065.0" />
-                  <point x="1033.9237479474546" y="1065.0" />
-                  <point x="1033.9237479474546" y="679.0" />
-                  <point x="1086.6380336617403" y="679.0" />
-                  <point x="-23.285714285714334" y="47.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.model.Corigent">
-                  <point x="55.049999999999955" y="-25.5" />
-                  <point x="645.9124589490966" y="924.0" />
-                  <point x="696.4335591133002" y="924.0" />
-                  <point x="696.4335591133002" y="649.0" />
-                  <point x="706.3335591133002" y="649.0" />
-                  <point x="0.0" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.ClasaRepositoryImplementation" target="aoir2035MV.note.model.Elev">
-                  <point x="-55.049999999999955" y="-25.5" />
-                  <point x="535.8124589490967" y="954.0" />
-                  <point x="559.5874999999999" y="954.0" />
-                  <point x="559.5874999999999" y="474.0" />
-                  <point x="305.6237479474547" y="474.0" />
-                  <point x="48.65000000000009" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.model.Medie" target="aoir2035MV.note.model.Elev">
-                  <point x="35.5" y="-36.5" />
-                  <point x="376.7124999999999" y="494.0" />
-                  <point x="277.82374794745454" y="494.0" />
-                  <point x="20.84999999999991" y="36.5" />
-                </edge>
-                <edge source="aoir2035MV.note.repository.NoteRepository" target="aoir2035MV.note.model.Nota">
-                  <point x="0.0" y="-14.5" />
-                  <point x="0.0" y="47.5" />
-                </edge>
-                <edge source="aoir2035MV.note.controller.NoteController" target="aoir2035MV.note.repository.EleviRepositoryMockImplementation">
-                  <point x="-63.700000000000045" y="-47.5" />
-                  <point x="442.9624999999999" y="1075.0" />
-                  <point x="132.0" y="1075.0" />
-                  <point x="0.0" y="25.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.7393526405451448" x="281.0" y="445.1278801843318" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+      <file leaf-file-name="EleviRepositoryMockImplementation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepositoryMockImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Corigent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/model/Corigent.java">
+      <file leaf-file-name="NoteRepositoryImplementation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/NoteRepositoryImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoteRepositoryImplementationTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/aoir2035MV/note/repository/NoteRepositoryImplementationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nota.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/model/Nota.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -375,34 +115,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClasaException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/ClasaException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nota" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/nota">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoteRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/NoteRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -431,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepositoryMock.java" />
         <option value="$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/nota" />
         <option value="$PROJECT_DIR$/src/main/java/aoir2035MV/note/exception/ClasaException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/aoir2035MV/note/repository/NoteRepositoryImplementationTest.java" />
       </list>
     </option>
   </component>
@@ -461,6 +182,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -567,25 +291,51 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aoir2035MV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aoir2035" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aoir2035" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aoir2035MV" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aoir2035" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aoir2035" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aoir2035MV" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="aoir2035MV.note.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="aoir2035MV.note.exception" />
     </key>
@@ -606,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.NoteRepositoryImplementationTest">
     <configuration name="StartApp" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="9" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -620,6 +370,29 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="aoir2035MV.note.main.StartApp" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NoteRepositoryImplementationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aoir2035" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aoir2035MV.note.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="aoir2035MV.note.repository" />
+      <option name="MAIN_CLASS_NAME" value="aoir2035MV.note.repository.NoteRepositoryImplementationTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -659,6 +432,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.StartApp" />
+      <item itemvalue="JUnit.NoteRepositoryImplementationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NoteRepositoryImplementationTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -673,18 +455,28 @@
       <workItem from="1551821608002" duration="115000" />
       <workItem from="1552499335614" duration="1614000" />
       <workItem from="1553000579411" duration="1808000" />
+      <workItem from="1553613856044" duration="1024000" />
+      <workItem from="1553956823242" duration="2970000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="NoteRepositoryImplementationTest - 2019.03.30 at 17h 10m 43s.xml">
+      <configuration name="NoteRepositoryImplementationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NoteRepositoryImplementationTest - 2019.03.30 at 17h 29m 20s.xml">
+      <configuration name="NoteRepositoryImplementationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3870000" />
+    <option name="totallyTimeSpent" value="7864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.7365517" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.44275862" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -696,7 +488,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29101562" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2643229" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -704,34 +496,12 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.09241379" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21289062" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -741,7 +511,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/App.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -826,20 +595,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepositoryImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepositoryImplementation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepositoryImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,13 +657,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/aoir2035MV/test/GetCorigentiTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -924,23 +677,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/aoir2035MV/test/AddNotaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/main/StartApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/model/Corigent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
@@ -959,34 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/model/Nota.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-412">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/NoteRepositoryImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="64" column="43" lean-forward="true" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/NoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -994,17 +705,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepositoryMockImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/ClasaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1024,18 +728,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/controller/NoteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="697">
           <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepositoryImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1479">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1317,7 +1014,7 @@
               <point x="0.0" y="114.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="154.9999999999999" y="1630.0" />
+          <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="155.0" y="1630.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1344,6 +1041,7 @@
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -1635,7 +1333,7 @@
               <point x="0.0" y="25.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.7393526405451448" x="281.0" y="445.1278801843318" />
+          <settings layout="Hierarchic Group" zoom="0.7393526405451448" x="281.0" y="445.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1645,5 +1343,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/ClasaRepositoryImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1564">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/EleviRepositoryMockImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/model/Nota.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/aoir2035MV/test/AddNotaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="191" column="5" lean-forward="true" selection-start-line="191" selection-start-column="5" selection-end-line="191" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aoir2035MV/note/repository/NoteRepositoryImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/aoir2035MV/note/repository/NoteRepositoryImplementationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aoir2035</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: backport-util-concurrent:backport-util-concurrent:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
