@@ -52,7 +52,7 @@ public class ClasaRepositoryImplementation implements ClasaRepository{
 	public List<Medie> calculeazaMedii() throws ClasaException{
 		// TODO Auto-generated method stub
 		List<Medie> medii = new LinkedList<Medie>();
-		if(clasa.size() >= 0) {
+		if(clasa.size() > 0) {
 			for(Elev elev : clasa.keySet()) {
 				Medie medie = new Medie();
 				medie.setElev(elev);

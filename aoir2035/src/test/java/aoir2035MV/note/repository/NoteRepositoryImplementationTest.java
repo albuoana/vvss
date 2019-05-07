@@ -67,6 +67,7 @@ public class NoteRepositoryImplementationTest {
     public void TC2BVA() throws ClasaException {
         Nota nota = new Nota(5, "Logic", 10);
         ctrl.addNota(nota);
+        assertEquals(1, ctrl.getNote().size());
     }
 
     @Test
