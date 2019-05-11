@@ -1,0 +1,5 @@
+Demo UI test on trello
+In order to do a test on Trello
+As a tester
+I do the setup using API calls
+And then I test something on UI
